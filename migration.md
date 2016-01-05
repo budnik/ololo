@@ -2,7 +2,9 @@
 layout: docs
 title: Migrating to v4
 group: migration
+published: false
 ---
+
 
 Bootstrap 4 is a major rewrite of almost the entire project. The most notable changes are summarized immediately below, followed by more specific class and behavioral changes to relevant components.
 

@@ -27,7 +27,8 @@ download:
 blog:             http://blog.getbootstrap.com
 expo:             http://expo.getbootstrap.com
 themes:           http://themes.getbootstrap.com
-
+prose:
+  media: _plugins
 cdn:
   css:            https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css
   js:             https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js

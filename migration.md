@@ -5,6 +5,7 @@ group: migration
 published: false
 ---
 
+![:page_with_curl:]({{site.baseurl}}/_plugins/01.doc)
 
 Bootstrap 4 is a major rewrite of almost the entire project. The most notable changes are summarized immediately below, followed by more specific class and behavioral changes to relevant components.
 ![foobar_logo.jpg]({{site.baseurl}}/_plugins/foobar_logo.jpg)
